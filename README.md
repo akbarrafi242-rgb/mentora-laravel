@@ -28,5 +28,5 @@ Mentora adalah platform yang menghubungkan mahasiswa dengan mentor berpengalaman
 8. Buka `http://localhost:8000`
 
 ## Developer
-- Nama: Rafi Akbar
-- NIM: 24082010269
+- Nama: Rafi Akbar, Faris Rasyid Setiyono, Savira Fitri Az Zahrah
+- NIM: 24082010269, 24082010259, 24082010227
