@@ -28,5 +28,5 @@ Mentora adalah platform yang menghubungkan mahasiswa dengan mentor berpengalaman
 8. Buka `http://localhost:8000`
 
 ## Developer
-- Nama: [Nama Kamu]
-- NIM: [NIM Kamu]
+- Nama: Rafi Akbar
+- NIM: 24082010269
